@@ -14,12 +14,13 @@
 👋 Hi, I’m Ved Vyas(GITHUB: @vedcodes2312), a rookie coder,a technology,maths and AI enthusiast from India.
 <br>
 <br>
- 🎓 Engineering Undergraduate Student at GSFC University(Department of Computer Science and Engineering,School of Technology)
+ 🎓 Engineering Undergraduate Student at GSFC University (Department of Computer Science and Engineering,School of Technology)
   <br>
 📗 A studious guy,a keen learner,love and always ready to learn new stuff
 <br>
 💻 I love coding,trying new tools,languages and other tech.
 <br>
+⏲️ Dived in the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
 
 
   
