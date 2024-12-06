@@ -20,6 +20,11 @@
 💻 I love coding,trying new tools,languages and other tech.
 <br>
 ⌚ Dived in the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
+<hr>
+<h2 align="center">🔥 Languages,Frameworks,Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+
 
  
  
