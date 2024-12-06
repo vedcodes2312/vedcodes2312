@@ -6,8 +6,7 @@
 </a>
   </h1>
   <h5 align = "center"> 
-    
-  <code><a href="https://www.linkedin.com/in/ved-vyas-416631327/" title="LinkedIn Profile"><img src="linkein.png" width="22"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/ved-vyas-416631327/" title="LinkedIn Profile"><img src="linkein.png" width="22"> LinkedIn</a></code>
  <code><a href="https://www.hackerrank.com/profile/ved_codes2312" title="HackerRank Profile"><img src="hackerrank.jpg" width="22">HackerRank</a></code>   </h5> 
 <br>
 <p align="center">
@@ -22,6 +21,7 @@
 <br>
 ⌚ Dived in the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
 
-
+ 
+ 
   
 
