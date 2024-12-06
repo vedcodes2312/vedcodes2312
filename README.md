@@ -20,7 +20,7 @@
 <br>
 💻 I love coding,trying new tools,languages and other tech.
 <br>
-⏲️ Dived in the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
+⌚ Dived in the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
 
 
   
