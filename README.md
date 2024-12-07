@@ -45,7 +45,7 @@
 <br><br><br>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedcodes2312&layout=donut)](https://github.com/anuraghazra/github-readme-stats"  height=200 align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedcodes2312&layout=donut"  height=200 align="center">
 </a> </div>
 
 
