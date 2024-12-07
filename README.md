@@ -20,6 +20,11 @@
 💻 I love coding,trying new tools,languages and other tech.
 <br>
 ⌚ Dived into the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
+  <br>
+ 📞📩Contact and connect with me:
+   E-Mail 1: <a href="mailto: codewithved2312@gmail.com">codewithved2312@gmail.com</a>
+  <br>
+  E-Mail 2: <a href="mailto: workwithved2312@gmail.com">workwithved2312@gmail.com</a> </p>
 <hr>
 <h2 align="center">🔥 Languages,Frameworks,Tools, Abilities and Other Softwares🔥</h2>
 <br>
