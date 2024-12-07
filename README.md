@@ -39,11 +39,11 @@
 <h2 align="center"> 📶 Statistics 📶 </h2>
 <p align="center">
 <div align="center">
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=vedcodes2312&theme=material-palenight" alt="GitHub Streak" /></a></div>
-  <br>
+<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=vedcodes2312&theme=material-palenight" alt="GitHub Streak" /></a></div>
+  
   <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedcodes2312&show_icons=true&theme=radical">  </a> </div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vedcodes2312&show_icons=true&theme=radical">  </a> </div>
 <br>
 <div align="center" width="100%">
 <a href="https://github.com/anuraghazra/github-readme-stats">
