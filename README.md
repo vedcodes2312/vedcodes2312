@@ -42,9 +42,7 @@
 <a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=vedcodes2312&theme=material-palenight" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=vedcodes2312&show_icons=true&theme=radical">  </a> </div>
-<br>
-‎ 
-<br>
+<br><br><br><br><br><br><br>
 <div align="center" width="100%">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedcodes2312&layout=donut"  height=200 width=500>
