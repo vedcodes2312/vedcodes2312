@@ -35,6 +35,16 @@
 <code><img title="HTML" src="HTML5_logo_and_wordmark.svg.png" height="30"></code>
 <code><img title="Visual Studio Code" src="vscode-1-200x200.png" height="30"></code>
 <code><img title="github" src="GitHub-Logo-700x394.png" height="30"></code>  </p> </hr>
+<hr>
+<h2 align="center"> 📶 Statistics 📶 </h2>
+<p align="center">
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vedcodes2312&theme=material-palenight" alt="GitHub Streak" /></a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<img src="https://github-readme-stats.vercel.app/api?username=vedcodes2312&show_icons=true&theme=radical">  </a> </div>
+
+
 
 
 
