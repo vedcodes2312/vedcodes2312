@@ -8,7 +8,7 @@
   <h5 align = "center"> 
     <code><a href="https://www.linkedin.com/in/ved-vyas-416631327/" title="LinkedIn Profile"><img src="linkein.png" width="22"> LinkedIn</a></code>
  <code><a href="https://www.hackerrank.com/profile/ved_codes2312" title="HackerRank Profile"><img src="hackerrank.jpg" width="22">HackerRank</a></code>  
-<code><a href="twitter.com/VedVyas894081" title="Twitter(X) Profile"><img src="twitter.jpg" width="22"><img src="x.jpg" width="22">Twitter(X)</a></code>    </h5> 
+<code><a href="https://x.com/VedVyas894081" title="Twitter(X) Profile"><img src="twitter.jpg" width="22"><img src="x.jpg" width="22">Twitter(X)</a></code>    </h5> 
 <br>
 <p align="center">
 👋 Hi, I’m Ved Vyas(GITHUB: @vedcodes2312), a rookie coder,a technology,maths and AI enthusiast from India.
