@@ -49,6 +49,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedcodes2312&layout=donut"  height=200 width=1000 >
 </a> </div>
+<br>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedcodes2312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 
