@@ -65,7 +65,11 @@
 <a align="right" href="https://github.com/vedcodes2312/basics_of_python" title="array in c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vedcodes2312&repo=basics_of_python&theme=dracula" align="right"></a>
 </div>
 
+<br/><br/><br/><br/><br/><br/>
 
+<h4 align="center">
+  <a href="https://github.com/vedcodes2312?tab=repositories" title="Show Repositories">🔎 See and search more repositories</a>
+</h4>
 
 
 
