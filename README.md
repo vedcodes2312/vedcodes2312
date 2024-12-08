@@ -68,7 +68,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/vedcodes2312?tab=repositories" title="Show Repositories">🔎 See and search more repositories</a>
+  <a href="https://github.com/vedcodes2312?tab=repositories" title="Show Repositories">🔎 See , search and explore more repositories </a>
 </h4>
 
 
