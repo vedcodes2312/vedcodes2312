@@ -53,8 +53,11 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedcodes2312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> 
 
-
-
+<hr>
+<h2 align="center"> 💥 Repositories 💥 </h2>
+<br>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/vedcodes2312/c-programs" title="C-Programs"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=vedcodes2312&repo=c-programs"></a>
 
 
 
