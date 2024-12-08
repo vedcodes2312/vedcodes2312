@@ -34,7 +34,7 @@
 <code><img title="C Language" src="C_Programming_Language.svg.png" height="30"></code>
 <code><img title="HTML" src="HTML5_logo_and_wordmark.svg.png" height="30"></code>
 <code><img title="Visual Studio Code" src="vscode-1-200x200.png" height="30"></code>
-<code><img title="github" src="GitHub-Logo-700x394.png" height="30"></code>  </p> </hr>
+<code><img title="github" src="GitHub-Logo-700x394.png" height="30"></code>  </p> 
 <hr>
 <h2 align="center"> 📶 Statistics 📶 </h2>
 <p align="center">
@@ -51,7 +51,7 @@
 </a> </div>
 <br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedcodes2312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> 
 
 
 
