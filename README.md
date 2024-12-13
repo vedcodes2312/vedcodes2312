@@ -8,7 +8,7 @@
   <h5 align = "center"> 
     <code><a href="https://www.linkedin.com/in/ved-vyas-416631327/" title="LinkedIn Profile"><img src="linkein.png" width="22"> LinkedIn</a></code>
  <code><a href="https://www.hackerrank.com/profile/ved_codes2312" title="HackerRank Profile"><img src="hackerrank.jpg" width="22"> HackerRank</a></code>  
-<code><a href="https://x.com/VedVyas894081" title="Twitter(X) Profile"><img src="twitter.jpg" width="22"><img src="x.jpg" width="22"> Twitter(X)</a></code> 
+<code><a href="https://x.com/VedVyas838380" title="Twitter(X) Profile"><img src="twitter.jpg" width="22"><img src="x.jpg" width="22"> Twitter(X)</a></code> 
   <code><a href="https://www.quora.com/profile/Ved-Vyas-147" title="Quora Profile"><img src="quora.png" width="22"> Quora</a></code>
     <code><a href="https://www.reddit.com/u/vedvyas2312/" title="Reddit Profile"><img src="reddit.jpg" width="22"> Reddit</a></code>
     <code><a href="https://www.pinterest.com/codewithved2312/" title="Pinterest Profile"><img src="Pinterest.png" width="22"> Pinterest</a></code>
