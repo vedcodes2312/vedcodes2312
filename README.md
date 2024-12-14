@@ -12,6 +12,7 @@
   <code><a href="https://www.quora.com/profile/Ved-Vyas-147" title="Quora Profile"><img src="quora.png" width="22"> Quora</a></code>
     <code><a href="https://www.reddit.com/u/vedvyas2312/" title="Reddit Profile"><img src="reddit.jpg" width="22"> Reddit</a></code>
     <code><a href="https://www.pinterest.com/codewithved2312/" title="Pinterest Profile"><img src="Pinterest.png" width="22"> Pinterest</a></code>
+     <code><a href="https://lovelearningconcepts.blogspot.com" title="Blogger Profile"><img src="blogger.png" width="22"> Blogger</a></code>
   </h5> 
 <br>
 <p align="center">
