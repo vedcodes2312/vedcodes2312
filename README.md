@@ -27,7 +27,7 @@
 <br>
 ⌚ Dived into the multiverse of programming in 2024,having basic prior knowledge of HTML and Java from school days.
   <br>
- 📞📩Contact and connect with me:
+ 📞📩 Contact and connect with me:
   <br>
    E-Mail 1: <a href="mailto: codewithved2312@gmail.com">codewithved2312@gmail.com</a>
   <br>
