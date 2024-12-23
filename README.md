@@ -68,7 +68,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
 <a align="left" href="https://github.com/vedcodes2312/array_c" title="array in c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vedcodes2312&repo=array_c&theme=dracula" align="left"></a>
-<a align="right" href="https://github.com/vedcodes2312/basics_of_python" title="array in c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vedcodes2312&repo=basics_of_python&theme=dracula" align="right"></a>
+<a align="right" href="https://github.com/vedcodes2312/matrix-calculator-c" title="array in c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vedcodes2312&repo=matrix-calculator-cn&theme=dracula" align="right"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
