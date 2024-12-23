@@ -40,6 +40,9 @@
   <code><img title="C++ Language" src="cpp-lang.png" height="30"></code>
 <code><img title="HTML" src="html.png" height="30"></code>
 <code><img title="Visual Studio Code" src="vscode-1-200x200.png" height="30"></code>
+  <code><img title="microsoft copilot" src="copilot.png" height="30"></code>
+  <code><img title="chat gpt" src="chatgpt.jpg" height="30"></code>
+  <code><img title="meta ai" src="metaai.jpg" height="30"></code>
 <code><img title="github" src="git-hub.png" height="30"></code>  </p> 
 <hr>
 <h2 align="center"> 📶 Statistics 📶 </h2>
