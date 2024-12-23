@@ -36,10 +36,11 @@
 <h2 align="center">🔥 Languages,Frameworks,Tools, Abilities and Other Softwares🔥</h2>
 <br>
 <p align="center">
-<code><img title="C Language" src="C_Programming_Language.svg.png" height="30"></code>
+<code><img title="C Language" src="clang.png" height="30"></code>
+  <code><img title="C++ Language" src="cpp.png" height="30"></code>
 <code><img title="HTML" src="HTML5_logo_and_wordmark.svg.png" height="30"></code>
 <code><img title="Visual Studio Code" src="vscode-1-200x200.png" height="30"></code>
-<code><img title="github" src="GitHub-Logo-700x394.png" height="30"></code>  </p> 
+<code><img title="github" src="git-hub.png" height="30"></code>  </p> 
 <hr>
 <h2 align="center"> 📶 Statistics 📶 </h2>
 <p align="center">
