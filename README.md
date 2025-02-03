@@ -41,6 +41,7 @@
 <code><img title="C Language" src="clang.png" height="30"></code>
   <code><img title="C++ Language" src="cpp-lang.png" height="30"></code>
 <code><img title="HTML" src="html.png" height="30"></code>
+  code><img title="css" src="css.png" height="30"></code>
 <code><img title="Visual Studio Code" src="vscode-1-200x200.png" height="30"></code>
   <code><img title="microsoft copilot" src="copilot.png" height="30"></code>
   <code><img title="chat gpt" src="chatgpt.jpg" height="30"></code>
