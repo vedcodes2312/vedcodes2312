@@ -52,7 +52,8 @@
 <code><img title="github" src="git-hub.png" height="30"></code>
 <code><img title="canva" src="canva.png" height="30"></code>
 <code><img title="gemini" src="gemini.png" height="30"></code>
-<code><img title="ASSET STUDIO GUI" src="assetstudio.png" height="30"></code></p> 
+<code><img title="ASSET STUDIO GUI" src="assetstudio.png" height="30"></code>
+<code><img title="jquery" src="jquery.png" height="30"></code></p> 
 <hr>
 <h2 align="center"> 📶 Statistics 📶 </h2>
 <p align="center">
