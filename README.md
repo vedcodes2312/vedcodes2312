@@ -58,7 +58,7 @@
 <br>
 <p align="center">
 <code><img title="Tailwind CSS" src="tailwind.png" height="30"></code>
-  <code><img title="PHP" src="clang.png" height="30"></code>
+  <code><img title="PHP" src="php.png" height="30"></code>
   <code><img title="bootstrap" src="bootstrap.jpg" height="30"></code>
   <code><img title="xml" src="xml.jpg" height="30"></code></p>
 <hr>
