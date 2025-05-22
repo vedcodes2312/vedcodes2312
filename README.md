@@ -55,7 +55,7 @@
 <code><img title="ASSET STUDIO GUI" src="assetstudio.png" height="30"></code>
 <code><img title="jquery" src="jquery.png" height="30"></code>
 <code><img title="git" src="git.png" height="30"></code></p> 
-<br><br><br>
+<br>
 <p align="center">
 <code><img title="Tailwind CSS" src="tailwind.png" height="30"></code>
   <code><img title="PHP" src="clang.png" height="30"></code>
