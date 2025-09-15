@@ -60,7 +60,10 @@
 <code><img title="Tailwind CSS" src="tailwind.png" height="30"></code>
   <code><img title="PHP" src="php.png" height="30"></code>
   <code><img title="bootstrap" src="bootstrap.jpg" height="30"></code>
-  <code><img title="xml" src="xml.jpg" height="30"></code></p>
+  <code><img title="xml" src="xml.jpg" height="30"></code>
+  <code><img title="xml" src="python.png" height="30"></code>
+  <code><img title="xml" src="numpy.png" height="30"></code>
+  <code><img title="xml" src="matplotlib.png" height="30"></code></p>
 <hr>
 <h2 align="center"> 📶 Statistics 📶 </h2>
 <p align="center">
