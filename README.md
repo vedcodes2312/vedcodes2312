@@ -64,8 +64,8 @@
   <code><img title="xml" src="python.png" height="30"></code>
   <code><img title="xml" src="numpy.png" height="30"></code>
   <code><img title="xml" src="matplotlib.png" height="30">
-    <code><img title="xml" src="reactpy.png" height="30">
-    <code><img title="xml" src="reactjs.png" height="30"></code></p>
+  <code><img title="xml" src="reactpy.png" height="30">
+ <code><img title="xml" src="reactjs.png" height="30"></code></p>
 <hr>
 <h2 align="center"> 📶 Statistics 📶 </h2>
 <p align="center">
